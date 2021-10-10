@@ -1,3 +1,5 @@
+import { GoogleMap, Marker } from "react-google-maps"
+
 function MapsPage() {
     return (
         <>
